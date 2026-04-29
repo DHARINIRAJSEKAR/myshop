@@ -25,6 +25,7 @@ A full-stack e-commerce web application built with MERN Stack.
 - Card Payment & Cash on Delivery
 - My Orders & Cancel Order
 - Profile Edit
+- Product Rating — ⭐⭐⭐⭐⭐ star rating
 
 ## 🚀 How to Run
 
